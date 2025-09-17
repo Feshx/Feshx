@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Feshx
+- 👋 Hi, I’m @Parth
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning Java coding
 - 💞️ I’m looking to collaborate on nothing for now
